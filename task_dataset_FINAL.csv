@@ -1,0 +1,102 @@
+task_id,description,category,priority,assignee,deadline_days,workload_score,cleaned_description,category_encoded,priority_encoded,priority_order,balanced_assignee
+1,Fix critical login bug causing users to be locked out,Bug,High,Diana,7,1,fix critic login bug caus user lock,0,0,0,Alice
+4,Deploy application to AWS production server,Deployment,High,Eve,12,2,deploy applic aw product server,1,0,0,Bob
+8,Optimize slow database queries on user table,Optimization,High,Charlie,23,1,optim slow databas queri user tabl,10,0,0,Charlie
+6,Investigate memory leak in background service,Bug,High,Bob,1,1,investig memori leak background servic,0,0,0,Diana
+16,Resolve payment gateway timeout errors,Bug,High,Bob,27,5,resolv payment gateway timeout error,0,0,0,Eve
+15,Add search functionality to dashboard,Feature,High,Diana,22,7,add search function dashboard,5,0,0,Alice
+9,Implement two-factor authentication feature,Feature,High,Charlie,23,8,implement twofactor authent featur,5,0,0,Charlie
+19,Update SSL certificates before expiry,DevOps,High,Alice,3,3,updat ssl certif expiri,3,0,0,Diana
+26,Fix security vulnerability in file upload,Security,High,Charlie,26,8,fix secur vulner file upload,14,0,0,Bob
+30,Implement role-based access control system,Feature,High,Diana,27,5,implement rolebas access control system,5,0,0,Diana
+24,Migrate database from MySQL to PostgreSQL,Migration,High,Alice,1,4,migrat databas mysql postgresql,9,0,0,Eve
+32,Fix crash in iOS app on startup,Bug,High,Diana,15,2,fix crash io app startup,0,0,0,Alice
+43,Perform load testing on production server,Testing,High,Diana,4,3,perform load test product server,15,0,0,Charlie
+46,Create backup and recovery procedure,DevOps,High,Alice,7,4,creat backup recoveri procedur,3,0,0,Diana
+39,Integrate third-party payment processor,Integration,High,Alice,7,4,integr thirdparti payment processor,6,0,0,Eve
+33,Build REST API for mobile application,Feature,High,Diana,15,6,build rest api mobil applic,5,0,0,Alice
+49,Build recommendation engine for products,Feature,High,Bob,11,8,build recommend engin product,5,0,0,Bob
+53,Investigate high CPU usage on server,Bug,High,Diana,7,1,investig high cpu usag server,0,0,0,Charlie
+54,Create API rate limiting mechanism,Feature,High,Eve,27,9,creat api rate limit mechan,5,0,0,Charlie
+48,Review security audit findings,Security,High,Eve,15,1,review secur audit find,14,0,0,Diana
+64,Fix wrong calculations in billing module,Bug,High,Bob,28,1,fix wrong calcul bill modul,0,0,0,Eve
+59,Fix email not sending in production,Bug,High,Diana,10,7,fix email send product,0,0,0,Diana
+91,Fix incorrect user permissions on dashboard,Feature,High,Charlie,19,2,fix incorrect user permiss dashboard,5,0,0,Eve
+89,Create sample data for demo environment,Feature,High,Diana,5,9,creat sampl data demo environ,5,0,0,Alice
+82,Implement GDPR data deletion feature,Security,High,Alice,9,4,implement gdpr data delet featur,14,0,0,Eve
+84,Build notification preferences settings,Feature,High,Eve,7,8,build notif prefer set,5,0,0,Bob
+88,Fix slow report generation taking too long,Bug,High,Alice,9,3,fix slow report gener take long,0,0,0,Eve
+86,Conduct performance review meetings,Management,High,Alice,8,3,conduct perform review meet,7,0,0,Diana
+73,Investigate data inconsistency in reports,Bug,High,Eve,25,4,investig data inconsist report,0,0,0,Charlie
+74,Implement audit logging for user actions,Security,High,Bob,7,8,implement audit log user action,14,0,0,Eve
+77,Build inventory management module,Feature,High,Alice,25,1,build inventori manag modul,5,0,0,Diana
+71,Fix session timeout happening too early,Bug,High,Alice,23,3,fix session timeout happen earli,0,0,0,Alice
+93,Write changelog for version 2.0 release,Bug,High,Charlie,12,6,write changelog version releas,0,0,0,Diana
+95,Build automated invoice generation system,Security,High,Alice,15,9,build autom invoic gener system,14,0,0,Bob
+100,Write deployment runbook for production,Feature,High,Alice,20,5,write deploy runbook product,5,0,0,Charlie
+47,Implement lazy loading for images,Optimization,Medium,Bob,13,9,implement lazi load imag,10,2,1,Alice
+62,Create data validation for input forms,Feature,Medium,Diana,21,1,creat data valid input form,5,2,1,Charlie
+61,Resolve merge conflict in main branch,Bug,Medium,Bob,25,4,resolv merg conflict main branch,0,2,1,Diana
+56,Implement webhook for payment events,Integration,Medium,Alice,22,2,implement webhook payment event,6,2,1,Eve
+50,Fix logout not working on Safari browser,Bug,Medium,Diana,29,7,fix logout work safari browser,0,2,1,Charlie
+20,Build data export feature as CSV download,Feature,Medium,Diana,5,2,build data export featur csv download,5,2,1,Eve
+22,Write technical specification document,Documentation,Medium,Eve,14,6,write technic specif document,4,2,1,Bob
+40,Create user activity dashboard with charts,Feature,Medium,Bob,17,4,creat user activ dashboard chart,5,2,1,Diana
+42,Write end-to-end test scenarios,Testing,Medium,Alice,29,3,write endtoend test scenario,15,2,1,Eve
+44,Add multi-language support to application,Feature,Medium,Bob,5,4,add multilanguag support applic,5,2,1,Alice
+38,Design database schema for new module,Design,Medium,Eve,19,3,design databas schema new modul,2,2,1,Eve
+37,Debug failing automated test cases,Testing,Medium,Charlie,13,6,debug fail autom test case,15,2,1,Charlie
+36,Implement email notification system,Feature,Medium,Eve,28,9,implement email notif system,5,2,1,Diana
+60,Build analytics tracking integration,Integration,Medium,Bob,13,9,build analyt track integr,6,2,1,Alice
+58,Optimize image compression pipeline,Optimization,Medium,Bob,2,3,optim imag compress pipelin,10,2,1,Bob
+70,Conduct sprint retrospective meeting,Management,Medium,Diana,26,3,conduct sprint retrospect meet,7,2,1,Eve
+45,Fix broken CSV import functionality,Bug,Medium,Bob,23,7,fix broken csv import function,0,2,1,Bob
+41,Fix timezone issue in scheduling feature,Bug,Medium,Diana,20,3,fix timezon issu schedul featur,0,2,1,Eve
+52,Design mockup for new checkout flow,Design,Medium,Diana,13,8,design mockup new checkout flow,2,2,1,Charlie
+10,Review and merge pull requests from team,Management,Medium,Eve,24,1,review merg pull request team,7,2,1,Eve
+23,Analyze user drop-off in onboarding funnel,Research,Medium,Diana,3,7,analyz user dropoff onboard funnel,13,2,1,Diana
+29,Improve page load speed by compressing assets,Optimization,Medium,Diana,7,8,improv page load speed compress asset,10,2,1,Eve
+28,Set up monitoring and alerting with Grafana,DevOps,Medium,Bob,14,6,set monitor alert grafana,3,2,1,Alice
+27,Create admin panel for user management,Feature,Medium,Charlie,23,1,creat admin panel user manag,5,2,1,Bob
+13,Conduct user interviews for feedback collection,Research,Medium,Eve,12,2,conduct user interview feedback collect,13,2,1,Bob
+14,Refactor legacy authentication code,Refactoring,Medium,Bob,8,6,refactor legaci authent code,11,2,1,Charlie
+11,Set up CI/CD pipeline for automated testing,DevOps,Medium,Diana,5,1,set cicd pipelin autom test,3,2,1,Bob
+2,Design new homepage UI with modern layout,Design,Medium,Eve,9,4,design new homepag ui modern layout,2,2,1,Bob
+7,Create onboarding email sequence for new users,Marketing,Medium,Charlie,16,5,creat onboard email sequenc new user,8,2,1,Diana
+94,Fix map not loading in location feature,Feature,Medium,Charlie,24,3,fix map load locat featur,5,2,1,Alice
+85,Fix video not playing on mobile devices,Bug,Medium,Alice,6,4,fix video play mobil devic,0,2,1,Eve
+81,Fix broken pagination on search results,Bug,Medium,Eve,13,8,fix broken pagin search result,0,2,1,Alice
+83,Review and update test documentation,Documentation,Medium,Eve,3,6,review updat test document,4,2,1,Bob
+96,Conduct security penetration testing,Bug,Medium,Charlie,27,4,conduct secur penetr test,0,2,1,Charlie
+76,Design email templates for campaigns,Design,Medium,Bob,1,8,design email templat campaign,2,2,1,Diana
+79,Write API integration guide for partners,Documentation,Medium,Diana,25,4,write api integr guid partner,4,2,1,Eve
+80,Set up Redis caching for performance,DevOps,Medium,Diana,20,1,set redi cach perform,3,2,1,Charlie
+90,Build subscription billing management,Bug,Medium,Charlie,1,2,build subscript bill manag,0,2,1,Charlie
+98,Implement real-time notifications using WebSocket,Bug,Medium,Bob,24,4,implement realtim notif use websocket,0,2,1,Eve
+97,Fix broken filter on transaction history,Feature,Medium,Eve,22,1,fix broken filter transact histori,5,2,1,Bob
+66,Write migration scripts for database upgrade,Migration,Medium,Diana,12,5,write migrat script databas upgrad,9,2,1,Bob
+101,Build customer feedback collection form,Bug,Medium,Diana,17,4,build custom feedback collect form,0,2,1,Charlie
+65,Implement password reset functionality,Feature,Medium,Bob,28,5,implement password reset function,5,2,1,Alice
+68,Fix broken links in help documentation,Documentation,Medium,Bob,20,9,fix broken link help document,4,2,1,Diana
+17,Create monthly performance report,Reporting,Low,Diana,3,1,creat monthli perform report,12,1,2,Eve
+63,Set up staging environment for QA,DevOps,Low,Eve,6,2,set stage environ qa,3,1,2,Eve
+57,Write user manual for admin features,Documentation,Low,Diana,28,7,write user manual admin featur,4,1,2,Charlie
+51,Update dependencies to latest versions,DevOps,Low,Diana,4,2,updat depend latest version,3,1,2,Bob
+55,Fix date picker not working on Firefox,Bug,Low,Charlie,19,9,fix date picker work firefox,0,1,2,Eve
+34,Conduct code review for new developer,Management,Low,Alice,26,6,conduct code review new develop,7,1,2,Alice
+35,Update privacy policy and terms of service,Documentation,Low,Charlie,10,1,updat privaci polici term servic,4,1,2,Bob
+25,Add dark mode support to the application,Feature,Low,Alice,5,7,add dark mode support applic,5,1,2,Bob
+31,Write blog post about new product features,Marketing,Low,Charlie,9,4,write blog post new product featur,8,1,2,Charlie
+12,Fix broken image links on product pages,Bug,Low,Charlie,3,2,fix broken imag link product page,0,1,2,Diana
+5,Update API documentation for v2 endpoints,Documentation,Low,Eve,2,3,updat api document v endpoint,4,1,2,Alice
+3,Write unit tests for payment module,Testing,Low,Charlie,8,7,write unit test payment modul,15,1,2,Diana
+18,Train new team member on codebase,Management,Low,Eve,1,1,train new team member codebas,7,1,2,Eve
+21,Fix navigation menu on mobile devices,Bug,Low,Bob,15,5,fix navig menu mobil devic,0,1,2,Alice
+78,Fix incorrect tax calculation in checkout,Bug,Low,Diana,27,8,fix incorrect tax calcul checkout,0,1,2,Bob
+69,Build chat support widget integration,Integration,Low,Diana,11,9,build chat support widget integr,6,1,2,Charlie
+72,Create automated email reports,Reporting,Low,Eve,28,3,creat autom email report,12,1,2,Eve
+92,Implement file compression before upload,Documentation,Low,Alice,10,2,implement file compress upload,4,1,2,Eve
+87,Implement social login with Google OAuth,Feature,Low,Alice,27,9,implement social login googl oauth,5,1,2,Alice
+75,Fix 404 error on product detail page,Bug,Low,Eve,1,6,fix error product detail page,0,1,2,Diana
+67,Add export to PDF feature for reports,Feature,Low,Bob,12,7,add export pdf featur report,5,1,2,Eve
+99,Fix incorrect sorting in leaderboard,Documentation,Low,Bob,9,1,fix incorrect sort leaderboard,4,1,2,Bob
